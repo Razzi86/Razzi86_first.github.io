@@ -25,7 +25,7 @@
 
 Engineered an autonomous robot car, integrating state of the art tools like C++, ROS2, SLAM, NAV2, Lidar/Depth, Jetson Orin, Arduino, and Encoder Motors. Performs sensor fusion to achieve robust localization, control, and path planning.
 
-![ANA](assets/img/slam.gif)
+![ANA](https://github.com/Razzi86/ana_bot/blob/main/src/ana/github_content/1.gif)
 
 
 ### MIT-PITT-RW Perception Team
