@@ -1,5 +1,5 @@
 # Computer Science | Robotics & AI
-#### Technical Skills: C/C++, Python, JavaScript, Java, MATLAB, CUDA, ROS2
+#### Skills: C/C++, Python, MATLAB, CUDA, ROS2, Unreal Engine 5
 
 ## Education		        		
 - B.S., Computer Science | University of Pittsburgh (_May 2024_)
@@ -10,14 +10,15 @@
 - Utilizing ROS2, SLAM, NAV2; using Lidar, Radar, IMU, etc.,
 
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2023 - Aug 2023_)**
-- Developed autonomous multi-million dollar underground mining vehicles, enhancing operational efficiency by 25% and driving $1.1 billion in yearly revenue
+- Developed autonomous underground mining vehicles, increasing efficiency by 25% and driving $1.1 billion in yearly revenue
 - Streamlined development with Docker and Azure DevOps in Linux
-- Utilized GPU parallelization to increase performance speeds by 20x, directly improving the quality of simulations and data processing
-- Implemented a modular and user friendly program for procedurally generating simulated environments
-- Presented my work to various Vice Presidents, who in result allocated more assets and grew our program
+- Utilized GPU parallelization to increase performance by 20x, directly improving the quality of simulations and data processing
+- Implemented an executable to procedurally generate simulated environments
+- Presented my work to various Vice Presidents to grow program
 
 **Undergraduate Teaching Assistant, Discrete Mathematics @ University of Pittsburgh (_Aug 2022 - may 2023_)**
-- Supported student learning through weekly recitation and office hours; managed grading and provided tutoring
+- Supported student learning through weekly recitation and office hours
+- Managed grading and provided tutoring
 
 ## Projects
 ### ANA - Autonomous Navigation Assembly
