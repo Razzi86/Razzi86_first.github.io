@@ -1,17 +1,3 @@
-<div style="display: flex; flex-direction: column; align-items: flex-start;">
-  <img src="/assets/img/headshot_circle.png" alt="Aidan Reilly" style="width: 150px; height: 150px; border-radius: 50%;">
-  <h1>Aidan Reilly</h1>
-  <p>Computer Science | Robotics & AI Enthusiast</p>
-  <div>
-    <a href="https://github.com/Razzi86/Razzi86.github.io/raw/main/assets/resume/Resume_github_15.pdf">
-      <img src="https://github.com/Razzi86/Razzi86.github.io/blob/main/assets/resume/Resume_github_15_preview.png?raw=true" 
-           alt="Resume Preview" 
-           style="width: 100%; max-width: 300px;">
-    </a>
-  </div>
-</div>
-
-
 # Computer Science | Robotics & AI
 #### Skills: C/C++, Python, MATLAB, CUDA, ROS2, Unreal Engine 5
 
