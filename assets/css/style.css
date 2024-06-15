@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+}
+
+.sidebar {
+  flex: 1; /* Adjusts the width of the sidebar */
+  padding: 20px;
+}
+
+.main {
+  flex: 3; /* Adjusts the width of the main content area */
+  padding: 20px;
+}
