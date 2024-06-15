@@ -6,18 +6,18 @@
 
 ## Work Experience
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2024 - Present_)**
-- Developing autonomous vehicles systems, Unreal Engine 5
-- Utilizing ROS2, SLAM, NAV2; using Lidar, Radar, IMU, etc.,
+- Developing autonomous vehicles using Unreal Engine 5 and ROS2
+- Tools: C++, Python, SLAM, NAV2, Lidar, Radar, IMU, etc.,
 
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2023 - Aug 2023_)**
 - Developed autonomous underground mining vehicles, increasing efficiency by 25% and driving $1.1 billion in yearly revenue
 - Streamlined development with Docker and Azure DevOps in Linux
 - Utilized GPU parallelization to increase performance by 20x, directly improving the quality of simulations and data processing
-- Implemented an executable to procedurally generate simulated environments
-- Presented my work to various Vice Presidents to grow program
+- Implemented an executable to procedurally generate simulations
+- Presented work to various Vice Presidents to grow program
 
 **Undergraduate Teaching Assistant, Discrete Mathematics @ University of Pittsburgh (_Aug 2022 - may 2023_)**
-- Supported student learning through weekly recitation and office hours
+- Supported students through weekly recitation and office hours
 - Managed grading and provided tutoring
 
 ## Projects
