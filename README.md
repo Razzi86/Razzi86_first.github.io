@@ -40,7 +40,7 @@ Contributed to an autonomous racecar by developing ML models for real-time vehic
 
 Engineered a two-player handheld game using Raspberry Pi and electrical engineering.
 
-![Box Game](https://user-images.githubusercontent.com/75161978/150026568-e0e3128b-62fe-46e0-8622-36bca743b56f.gif)
+![Box Game](https://imgur.com/a/PeGk6az)
 
 
 ### Clothing Segmentation Extension
