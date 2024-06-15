@@ -25,7 +25,7 @@
 
 Engineered an autonomous robot car, integrating state of the art tools like C++, ROS2, SLAM, NAV2, Lidar/Depth, Jetson Orin, Arduino, and Encoder Motors. Performs sensor fusion to achieve robust localization, control, and path planning.
 
-![SLAM GIF](https://github.com/Razzi86/Razzi86.github.io/blob/main/assets/img/slam.gif)
+![SLAM GIF](https://github.com/Razzi86/Razzi86.github.io/blob/main/assets/img/slam.gif?raw=true)
 
 ### MIT-PITT-RW Perception Team
 [MPRW Homepage](https://driverless.mit.edu/mitpittrw)
