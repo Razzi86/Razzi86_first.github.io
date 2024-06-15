@@ -7,7 +7,7 @@
 ## Work Experience
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2024 - Present_)**
 - Developing autonomous vehicles using Unreal Engine 5 and ROS2
-- Tools: C++, Python, SLAM, NAV2, Lidar, Radar, IMU, etc.,
+- Tools: C++, Python, SLAM, NAV2, Lidar, Radar, IMU, etc.
 
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2023 - Aug 2023_)**
 - Developed autonomous underground mining vehicles, increasing efficiency by 25% and driving $1.1 billion in yearly revenue
