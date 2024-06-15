@@ -1,4 +1,4 @@
-# Computer Scientist | Robotics & AI
+# Computer Science | Robotics & AI
 #### Technical Skills: C/C++, Python, JavaScript, Java, MATLAB, CUDA, ROS2
 
 ## Education		        		
@@ -6,7 +6,7 @@
 
 ## Work Experience
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2024 - Present_)**
-- Developing autonomous vehicles systems in GPS-denied environments using Unreal Engine 5
+- Developing autonomous vehicles systems, Unreal Engine 5
 - Designing new autonomy prototypes relative to project requirements involving Lidar, Radar, and IMU
 
 **Robotics Software Engineer Intern @ Komatsu Mining (_May 2023 - Aug 2023_)**
