@@ -1,6 +1,9 @@
 title: Aidan Reilly
 logo: /assets/img/headshot_circle.png
-#description: text below image
-#show_downloads: true
 
-theme: beautiful-jekyll
+url: "https://razzi86.github.io"
+baseurl: "/Razzi86_first.github.io"
+
+remote_theme: daattali/beautiful-jekyll
+plugins:
+  - jekyll-remote-theme
