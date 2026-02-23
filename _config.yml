@@ -1,9 +1,49 @@
+# -----------------------------
+# Site identity
+# -----------------------------
 title: Aidan Reilly
+description: Computer Science | Robotics & AI
 logo: /assets/img/headshot_circle.png
 
+# -----------------------------
+# Required for project sites
+# -----------------------------
 url: "https://razzi86.github.io"
 baseurl: "/Razzi86_first.github.io"
 
+# -----------------------------
+# Theme
+# -----------------------------
 remote_theme: daattali/beautiful-jekyll
+
 plugins:
   - jekyll-remote-theme
+
+# -----------------------------
+# Navigation bar
+# -----------------------------
+navbar-links:
+  Resume: "/assets/resume/resume.pdf"
+  GitHub: "https://github.com/Razzi86"
+  LinkedIn: "https://linkedin.com/in/aidan-r-reilly"
+
+# -----------------------------
+# Footer social icons (optional)
+# -----------------------------
+author:
+  name: Aidan Reilly
+  github: Razzi86
+  linkedin: aidan-r-reilly
+  email: areilly30@gatech.edu
+
+# -----------------------------
+# Optional settings
+# -----------------------------
+social-network-links:
+  github: Razzi86
+  linkedin: aidan-r-reilly
+
+share-links-active:
+  twitter: false
+  facebook: false
+  linkedin: false
