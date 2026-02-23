@@ -23,7 +23,7 @@ plugins:
 # Navigation bar
 # -----------------------------
 navbar-links:
-  Resume: "/assets/Aidan_Reilly_resume.pdf?v=20260222"
+  Resume: "/Aidan_Reilly_resume.pdf?v=20260222"
   GitHub: "https://github.com/Razzi86"
   LinkedIn: "https://linkedin.com/in/aidan-r-reilly"
 
