@@ -8,7 +8,7 @@ subtitle: ""
 
 # Aidan Reilly
 
-Robotics software engineer focused on 3D LiDAR perception, SLAM, and ROS2 autonomy systems deployed on NVIDIA Jetson.
+Robotics software engineer focused on perception & motion planning using ROS2.
 
 ---
 
